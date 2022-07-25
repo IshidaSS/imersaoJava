@@ -8,7 +8,7 @@ import java.util.List;
 public class LinguagemController
  {
 
-
+ 
 
     private List<Linguagem> linguagens =
     List.of (new Linguagem("java", "https://fortee.jp/files/jjug-ccc-2022-spring/image/banner.png","1"),
